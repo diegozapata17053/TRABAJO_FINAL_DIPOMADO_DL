@@ -10,7 +10,7 @@ se debe ingresar a la siguiente base de datos montada en drive y descargarlo.
 https://drive.google.com/drive/folders/1fig2mwFvCCdPWXa4TwSp-_Eh5MqbdJJG?usp=sharing
 ######################################################################################
 
-Diego Mauricio Zapata
+Diego Mauricio Zapata     -       
 Andres Ladino Chica
 
 ITM
